@@ -1,1 +1,1 @@
-[]
+['#1 SMP PREEMPT Fri Nov 3 12:30:26 KST 2023']
